@@ -1,0 +1,15 @@
+{
+  "name": "스마트 소비 대시보드 PRO",
+  "short_name": "가성비파쇄기",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/891/891462.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
